@@ -21,9 +21,9 @@ pip install pygments
 ## Usage
 Run the script from the command line, providing the path to the code file you want to display. You can also customize the behavior using various command-line arguments.
 
-\```bash
+```bash
 python path_to_script.py path_to_code_file --lexer [lexer_name] --delay [delay_time] --error_rate [error_rate] --error_delay [error_delay]
-\```
+```
 [![asciicast](https://asciinema.org/a/633672.svg)](https://asciinema.org/a/633672)
 ## Features
 - Real-time typing simulation of code.
